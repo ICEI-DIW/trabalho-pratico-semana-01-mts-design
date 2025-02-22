@@ -12,4 +12,4 @@ Matricula: 874659
 
 ## Tela de projeto no Replit
 ![Print do Projeto](./imagens/Hello%20World%20Replit%20no%20navegador.png)
-![Print do Projeto Replit](./imagens/Hello%20World%20Replit.png.png)
+![Print do Projeto Replit](./imagens/Hello%20World%20Replit.png)
